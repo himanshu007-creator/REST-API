@@ -1,5 +1,6 @@
 # REST-API
 HI, This is a very basic REST-API that i made using python.It simply returns indian state,its capital and languages of that state.
+It is a beginner friendly project and you will get a brief idea about the functioning of API.
 
 # HOW TO USE IT?
 - DOWNLOAD THE SOURCE CODE BY CLONING THIS REPO OR SIMPLY DOWNLOADING USING THE GREEN BUTTON
