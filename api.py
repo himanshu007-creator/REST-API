@@ -174,7 +174,7 @@ def api_id():
     else:
         return "Error: No id field provided. Please specify an id."
        
-    results = ['EMPTYT!!']
+    results = ['EMPTY!!']
 
     for state in states:
         if state['id'] == id:
