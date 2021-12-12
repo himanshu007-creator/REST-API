@@ -4,7 +4,7 @@ It is a beginner friendly project and you will get a brief idea about the functi
 
 # HOW TO USE IT?
 - DOWNLOAD THE SOURCE CODE BY CLONING THIS REPO OR SIMPLY DOWNLOADING USING THE GREEN BUTTON
-- RUN THIS PYTHON SCRIPT AND RUN IT.
+- RUN THIS PYTHON SCRIPT .
 - NOW OPEN YOUR BROWSER AND GO TO HOME <code>http://127.0.0.1:5000/</code>
 - YOU SEE THE LANDING PAGE.
 - TO VIEW ALL STATES GO TO <code>http://127.0.0.1:5000/api/states/all</code>
